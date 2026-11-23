@@ -17,7 +17,7 @@ Berikut adalah pembagian eksplorasi dan pemodelan machine learning untuk masing-
 
 Dataset yang digunakan dalam proyek ini:
 
-- `train.csv` — Berisi 10.070 baris dan 21 kolom (setelah pembersihan baris tanpa nilai `Life expectancy`: 10.062 baris).
+- `train_reg.csv` — Berisi 10.070 baris dan 21 kolom (setelah pembersihan baris tanpa nilai `Life expectancy`: 10.062 baris).
 - `test.csv` — Berisi 1.259 baris dan 19 kolom (dimuat pada bagian Hierarchical Clustering).
 
 Kolom utama meliputi `Year`, `Status` (Developed/Developing), `Life expectancy`, `Adult Mortality`, `infant deaths`, `under-five deaths`, `HIV/AIDS`, `Measles`, imunisasi (`Hepatitis B`, `Polio`, `Diphtheria`), `Alcohol`, `BMI`, `thinness`, `GDP`, `percentage expenditure`, `Total expenditure`, `Schooling`, `Income composition of resources`, dan `Population`.
